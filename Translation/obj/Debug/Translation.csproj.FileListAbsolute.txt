@@ -1,0 +1,17 @@
+D:\source\C#\Translation\Translation\Translation\bin\Debug\Translation.exe.config
+D:\source\C#\Translation\Translation\Translation\bin\Debug\Translation.exe
+D:\source\C#\Translation\Translation\Translation\bin\Debug\Translation.pdb
+D:\source\C#\Translation\Translation\Translation\bin\Debug\en-US\Translation.resources.dll
+D:\source\C#\Translation\Translation\Translation\obj\Debug\Translation.csproj.AssemblyReference.cache
+D:\source\C#\Translation\Translation\Translation\obj\Debug\Translation.csproj.SuggestedBindingRedirects.cache
+D:\source\C#\Translation\Translation\Translation\obj\Debug\Translation.Form1.resources
+D:\source\C#\Translation\Translation\Translation\obj\Debug\Translation.Properties.Resources.resources
+D:\source\C#\Translation\Translation\Translation\obj\Debug\Translation.Form1.en-US.resources
+D:\source\C#\Translation\Translation\Translation\obj\Debug\Translation.csproj.GenerateResource.cache
+D:\source\C#\Translation\Translation\Translation\obj\Debug\Translation.csproj.CoreCompileInputs.cache
+D:\source\C#\Translation\Translation\Translation\obj\Debug\en-US\Translation.resources.dll
+D:\source\C#\Translation\Translation\Translation\obj\Debug\Translation.exe
+D:\source\C#\Translation\Translation\Translation\obj\Debug\Translation.pdb
+D:\source\C#\Translation\Translation\Translation\bin\Debug\fr\Translation.resources.dll
+D:\source\C#\Translation\Translation\Translation\obj\Debug\Translation.Form1.fr.resources
+D:\source\C#\Translation\Translation\Translation\obj\Debug\fr\Translation.resources.dll
